@@ -86,12 +86,14 @@ button:hover{
     }
     .resume-container{
         flex-direction: column;
+        padding: 10px;
+        margin: 10px;
       
     }
     .right-section{
         width: 280px;
-        padding: 10px;
-        margin: 10px;
+        padding: 5px;
+        margin: 5px;
     }
     h1{
         font-size: 20px;
@@ -120,8 +122,8 @@ button:hover{
     }
 .left-section{
 width: 280px;
-padding: 10px;
-margin: 10px;
+padding: 5px;
+margin: 5px;
 }
 
 #personal-info {
