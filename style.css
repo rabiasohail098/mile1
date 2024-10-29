@@ -76,20 +76,20 @@ button:hover{
     background-color:  #507fcf;
     color:#fff;
 }
-@media (max-width:550px){
+@media (max-width: 550px){
     *{
         padding: 0px;
     }
     body{
         padding: 10px;
-        max-width: 550px;
+    
     }
     .resume-container{
         flex-direction: column;
-        width: 680px;
+        width: 550px;
     }
     .right-section{
-        width: 680px;
+        width: 550px;
     }
     h1{
         font-size: 20px;
@@ -97,21 +97,21 @@ button:hover{
         margin-left: 30px;
     }
     ul li{
-        width: 600px;
+        width: 500px;
     }
     h3{
         font-size: 20px;
         padding: 5px;
         margin: 0px;
         color:blue;
-        width: 600px;
+        width: 500px;
     }
     .profile-picture{
         margin: 10px;
         width: 80px;
     }
 .left-section{
-width:600px
+width:500px
 }
 button{
     font-size: 15px;
