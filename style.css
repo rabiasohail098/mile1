@@ -82,6 +82,7 @@ button:hover{
     }
     body{
         padding: 10px;
+        max-width: 550px;
     }
     .resume-container{
         flex-direction: column;
