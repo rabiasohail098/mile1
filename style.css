@@ -76,7 +76,7 @@ button:hover{
     background-color:  #507fcf;
     color:#fff;
 }
-@media (max-width: 550px){
+@media (max-width: 600px){
     *{
         padding: 0px;
     }
