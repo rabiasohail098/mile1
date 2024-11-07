@@ -2,6 +2,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: gainsboro;
+    background-image: url(https://www.bing.com/videos/riverview/relatedvideo?q=Moving%20Background%20Animation&mid=C297CDCC61DB64C4250DC297CDCC61DB64C4250D&ajaxhist=0);
     margin: 0;
     padding: 150px;
 }
@@ -28,6 +29,7 @@ box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     width: 150px;
     height: 150px;
     margin-top: 30%;
+    margin-right: 50px;
     border-radius: 50%;
     border: 5px solid  rgb(151, 153, 156);
     margin-bottom: 20px;
